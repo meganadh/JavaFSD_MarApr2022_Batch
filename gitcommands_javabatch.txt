@@ -1,0 +1,18 @@
+git init (one time command to initialize the repository)
+
+git status
+
+git add .
+
+git commit -m "some comments"
+
+===============================
+
+(one time activity)
+git remote add origin  https://github.com/meganadh/JavaFSD_MarApr2022_Batch.git
+
+(one time activity)
+git branch -M main
+
+(everytime you have to do it - to send from local git to github)
+git push -u origin main
