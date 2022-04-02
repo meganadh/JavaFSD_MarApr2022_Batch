@@ -1,3 +1,7 @@
+=============================================================
+These are Meganadh - Github commands
+=============================================================
+
 git init (one time command to initialize the repository)
 
 git status
