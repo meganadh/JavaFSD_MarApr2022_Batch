@@ -1,4 +1,2 @@
 INDEX VERSION 1.131+F:\SL\JavaFSProjectsMarchApr2022\.metadata\.plugins\org.eclipse.jdt.core
-712673515.index
 1865797976.index
-1151521893.index
