@@ -1,0 +1,14 @@
+package myPackage;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+		float data = 7.12345678912345f;
+		
+		System.out.println(data);
+		
+		
+
+	}
+}

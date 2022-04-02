@@ -1,0 +1,37 @@
+
+Agile(Scrum) process
+
+Data Types
+
+Operators
+
+Number System
+
+Memory Units
+
+Eclipse - Setup
+
+JDK and JRE
+
+Why string - S is capital
+
+Value types (vs) reference types
+
+Why Java is platform independent
+
+All the 7 Operators in Java
+
+Arithmetic
+Relational 
+Logical
+Bitwise
+Shift
+Unary
+Assignment Operator
+
+Conditional Operator
+
+Wrapper Classes
+
+
+

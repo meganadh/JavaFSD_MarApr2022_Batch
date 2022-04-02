@@ -1,0 +1,14 @@
+package myPackage;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{		
+		int age=15;	
+		
+		age%=2;
+		
+		System.out.println(age);
+
+	}
+}

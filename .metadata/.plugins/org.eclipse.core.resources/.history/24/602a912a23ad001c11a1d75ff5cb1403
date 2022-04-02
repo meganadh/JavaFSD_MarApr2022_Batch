@@ -1,0 +1,14 @@
+package myPackage;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+		double data = 0.12345678912345d;
+		
+		System.out.println(data);
+		
+		
+
+	}
+}
