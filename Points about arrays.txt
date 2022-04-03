@@ -1,0 +1,17 @@
+1. Arrays are collection similar data types
+
+
+2. Array index starts from zero
+
+
+3. Array size to be mentioned while declaring the variable
+   [ directly or indirectly by initializing ]
+
+
+4. Arrays require sequential memory location
+
+
+5. The size of array variable = data type size x array size
+
+
+6. Array size is fixed. i.e., the size cannot be changed programmatically.
